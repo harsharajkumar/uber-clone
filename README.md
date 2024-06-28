@@ -1,6 +1,6 @@
 
 
-#This Uber clone application is a multi-platform application built using React Native
+# This Uber clone application is a multi-platform application built using React Native
 
 #  Libraries used
 - tailind
